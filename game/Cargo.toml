@@ -1,0 +1,12 @@
+[package]
+name = "hellorust"
+version = "0.1.0"
+authors = ["Mark Chimes"]
+edition = "2021"
+
+[dependencies]
+rltk = { version = "0.8.0" }
+# rltk is a wrapper for bracket-lib
+# see https://crates.io/crates/bracket-lib/0.8.7
+specs = "0.16.1"
+specs-derive = "0.4.1"
