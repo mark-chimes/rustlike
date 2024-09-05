@@ -1,5 +1,5 @@
 [package]
-name = "hellorust"
+name = "rustlike"
 version = "0.1.0"
 authors = ["Mark Chimes"]
 edition = "2021"
